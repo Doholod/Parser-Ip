@@ -1,0 +1,49 @@
+   + EACefSubProcess.exe (23936)
+   + EAAntiCheat.GameServiceLauncher.exe (24440)
+   + chrome.exe (11120)
+   - EADesktop.exe (7864)
+    + IPv4 (3.233.2.116 - 192.168.1.103) ConvID = 20
+    + IPv4 (192.168.1.103 - 162.159.130.233) ConvID = 86
+    + IPv4 (54.243.122.21 - 192.168.1.103) ConvID = 146
+    + IPv4 (192.168.1.103 - 52.5.25.187) ConvID = 181
+    + IPv4 (34.199.44.107 - 192.168.1.103) ConvID = 258
+    + IPv4 (184.27.175.240 - 192.168.1.103) ConvID = 28
+    + IPv4 (192.168.1.103 - 184.28.244.191) ConvID = 243
+    + IPv4 (54.158.196.11 - 192.168.1.103) ConvID = 508
+    + IPv4 (3.210.214.59 - 192.168.1.103) ConvID = 511
+   + steam.exe (16776)
+   + <Unknown>
+   + EABackgroundService.exe (17948)
+   + EAAntiCheat.Installer.exe (20144)
+   + steamwebhelper.exe (16920)
+   + Telegram.exe (8256)
+   + EAAntiCheat.GameService.exe (20784)
+   + svchost.exe (5412)
+   + System (0)
+   - GW2.Main_Win64_Retail.exe (5356)
+    + IPv4 (192.168.1.103 - 184.28.244.191) ConvID = 243
+    + IPv4 (192.168.1.103 - 159.153.51.20) ConvID = 351
+    + IPv4 (192.168.1.103 - 159.153.73.34) ConvID = 386
+    + IPv4 (192.168.1.103 - 162.244.53.166) ConvID = 402
+    + IPv4 (192.168.1.103 - 185.50.104.237) ConvID = 405
+    + IPv4 (192.168.1.103 - 159.153.230.7) ConvID = 407
+    + IPv4 (192.168.1.103 - 159.153.52.14) ConvID = 409
+    + IPv4 (192.168.1.103 - 109.200.215.142) ConvID = 420
+    + IPv4 (192.168.1.103 - 109.200.221.174) ConvID = 422
+    + IPv4 (192.168.1.103 - 54.235.165.52) ConvID = 453
+    + IPv4 (192.168.1.103 - 159.153.71.23) ConvID = 457
+    + IPv4 (192.168.1.103 - 34.233.183.14) ConvID = 459
+    + IPv4 (192.168.1.103 - 159.153.51.21) ConvID = 468
+    + IPv4 (192.168.1.103 - 107.22.86.184) ConvID = 613
+   + steamwebhelper.exe (17208)
+   + RadeonSoftware.exe (10308)
+   + Zapret.exe (23260)
+   + devenv.exe (24348)
+   + PerfWatson2.exe (19232)
+   + Microsoft.ServiceHub.Controller.exe (3536)
+   + ServiceHub.VSDetouredHost.exe (8528)
+   + ServiceHub.IdentityHost.exe (18232)
+   + ServiceHub.ThreadedWaitDialog.exe (18064)
+   + ServiceHub.IndexingService.exe (17560)
+  - Other Traffic
+   + <Unknown>
